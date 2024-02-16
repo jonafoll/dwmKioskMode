@@ -2,6 +2,4 @@ export DISPLAY=:0
 export WEBKIT_DISABLE_COMPOSITING_MODE=1
 exec dwm &
 
-while true; do
-    surf -F -K -n https://vg.no
-done
+surf -F -K -n https://gnu.org
