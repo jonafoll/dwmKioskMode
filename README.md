@@ -5,7 +5,8 @@ Modify the URL in .xinitrc to change website. Might bug out if it is a website w
 
 # Setup for Debian network install
 https://www.debian.org/CD/netinst/
-UNCHECK DEBIAN DESKTOP AND GNOME DURING INSTALLATION
+
+## UNCHECK DEBIAN DESKTOP AND GNOME DURING INSTALLATION
 
 First log in as root
 
