@@ -40,7 +40,7 @@ Login as the non-root user, use sudo in front of commands that need it from now 
 
 # Autostart on login
     cd ~/dwmKioskMode
-    mv ~/.bash_profile.txt ~/
+    mv .bash_profile.txt ~/
     cd ~/
     cat bash_profile.txt >> ~/bash_profile
 
